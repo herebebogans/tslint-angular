@@ -16,6 +16,6 @@
   "homepage": "https://github.com/mgechev/tslint-angular#readme",
   "dependencies": {
     "codelyzer": "^4.0.2",
-    "tslint": "^5.8.0"
+    "tslint": "^5.16.0"
   }
 }
